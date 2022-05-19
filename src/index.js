@@ -7,6 +7,7 @@ import { Provider } from 'react-redux';
 import handleVideoSearch from './actions/search.js';
 
 ReactDOM.render(
+   var pluto = 'a dog';
   <Provider store={store}>
     <App />
   </Provider>,
